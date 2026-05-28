@@ -1,0 +1,2 @@
+# Hardware-Verilog-Based-Implementation-of-Matrix-Multiplication-Using-Control---Datapath-Architecture
+Developed a hardware-based 4×4 matrix multiplier in Verilog using FSM-controlled datapath and control units alongside a modular memory architecture. Implements synchronous RTL design, ASM-based control flow, multi-stage architecture, memory interfacing, and hardware multiply-accumulate operations.
